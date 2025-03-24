@@ -25,3 +25,13 @@ MLFlow para geração de logs:
 O script sorvetes-training.py foi gerado, então criei o Job via comando:
 
 ![comando job](https://github.com/user-attachments/assets/45e3985d-f955-4499-a507-236513bb9682)
+
+Job/experimento rodou com sucesso, então exportei o modelo:
+
+![image](https://github.com/user-attachments/assets/26fa7278-077d-47b5-9348-7bb4546b27b7)
+
+![image](https://github.com/user-attachments/assets/3b37bd48-f6a5-4d81-acb6-d42097cb99b8)
+
+Criação do endpoint a partir do deploy do modelo:
+
+![Screenshot_8](https://github.com/user-attachments/assets/df491d5b-2f95-45f7-b2a8-f51c174481bb)
